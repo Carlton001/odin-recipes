@@ -1,0 +1,22 @@
+*{
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+
+img{
+    height:50% ;
+    width: 100%;
+}
+
+body{
+    background-color: beige;
+    padding: 20px;
+    margin: 0;
+    box-sizing: border-box;
+}
